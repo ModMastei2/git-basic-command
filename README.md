@@ -34,4 +34,3 @@ git merge name_branch
 ```
 git fetch
 ```
-jkhojk
