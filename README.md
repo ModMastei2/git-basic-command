@@ -30,6 +30,10 @@ git branch -D newBranch //force delete
 ```
 git merge name_branch
 ```
+force
+```
+git merge name_branch -f
+```
 # Fetch
 ```
 git fetch
